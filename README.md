@@ -1,6 +1,6 @@
 # MyAngularApp
 
-This MyAngularApp is a small application that includes some exercises to know Angular's basis. 
+MyAngularApp is a small application that includes some exercises to know Angular's basis. 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
 
