@@ -10,7 +10,7 @@ import { Component } from '@angular/core';
         }
 
         .offline {
-            color: yellow;
+            color: white;
             padding: 5px;
         }
     `]
